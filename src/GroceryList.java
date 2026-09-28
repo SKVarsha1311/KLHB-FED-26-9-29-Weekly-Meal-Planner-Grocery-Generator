@@ -14,5 +14,5 @@ public class GroceryList {
             meals[i] = sc.nextLine();
 
             System.out.print("Ingredients for " + days[i] + ": ");
-            ingredients[i] = sc.nextLine();
+        
        
