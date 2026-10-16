@@ -9,7 +9,9 @@ The Weekly Meal Planner & Grocery List Generator is a basic Java console applica
 repeated ingredients. By using beginner‑friendly Java concepts like classes, ArrayLists, HashMaps, loops, and  user input, the project shows how simple code 
 can solve real everyday problems. The goal is to reduce planning mistakes, avoid ingredient mismatches, and help users shop with a clear,focused list. This project 
 also serves as a practical way to learn core Java fundamentals through a real‑world workflow.
-SETUP & EXECUTION:
+
+SETUP & EXECUTION: 
+
 1.Install JDK
 2.Open any IDE
 3.Create the 4 classes (Meal, MealPlanner, GroceryListGenerator, Main)
