@@ -1,0 +1,4 @@
+Scanner sc = new Scanner(System.in);
+
+System.out.print("Meal for " + days[0] + ": ");
+meals[0] = sc.nextLine();

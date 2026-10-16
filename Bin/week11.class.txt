@@ -1,0 +1,3 @@
+// Input meals + ingredients
+// Print grocery list
+Add comments like // Input meals + ingredients and // Print grocery list, and fix the indentation. The logic stays the same.

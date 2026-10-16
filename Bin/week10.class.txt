@@ -1,0 +1,6 @@
+for(String item : list){
+    item = item.trim();
+    if(item.length() > 0){
+        System.out.println("- " + item);
+    }
+}

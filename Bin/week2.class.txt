@@ -1,0 +1,3 @@
+String[] days = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+String[] meals = new String[7];
+String[] ingredients = new String[7];

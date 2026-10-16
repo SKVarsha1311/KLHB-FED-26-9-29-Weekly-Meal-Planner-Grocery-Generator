@@ -1,0 +1,7 @@
+for(int i = 0; i < 7; i++){
+    System.out.print("Meal for " + days[i] + ": ");
+    meals[i] = sc.nextLine();
+
+    System.out.print("Ingredients for " + days[i] + ": ");
+    ingredients[i] = sc.nextLine();
+}
